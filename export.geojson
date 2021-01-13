@@ -1,0 +1,2613 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-13T16:37:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181548374",
+        "addr:housenumber": "650",
+        "addr:postcode": "30308",
+        "addr:street": "PONCE DE LEON AVENUE NE",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "source": "Bing;local_knowledge",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3659517,
+              33.7736901
+            ],
+            [
+              -84.3660096,
+              33.7736943
+            ],
+            [
+              -84.3660238,
+              33.7735605
+            ],
+            [
+              -84.3657792,
+              33.7735426
+            ],
+            [
+              -84.3657649,
+              33.7736764
+            ],
+            [
+              -84.3658159,
+              33.7736801
+            ],
+            [
+              -84.3658105,
+              33.7737035
+            ],
+            [
+              -84.3659498,
+              33.7737143
+            ],
+            [
+              -84.3659517,
+              33.7736901
+            ]
+          ]
+        ]
+      },
+      "id": "way/181548374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182466494",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3688586,
+              33.780322
+            ],
+            [
+              -84.3689449,
+              33.7802172
+            ],
+            [
+              -84.368728,
+              33.7802172
+            ],
+            [
+              -84.368801,
+              33.7803202
+            ],
+            [
+              -84.3688586,
+              33.780322
+            ]
+          ]
+        ]
+      },
+      "id": "way/182466494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193133919",
+        "addr:city": "Atlanta",
+        "addr:country": "US",
+        "amenity": "cafe",
+        "building": "commercial",
+        "name": "Pemberton Cafe",
+        "source": "Bing",
+        "website": "http://cintl.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3940856,
+              33.7629909
+            ],
+            [
+              -84.3940121,
+              33.7629914
+            ],
+            [
+              -84.3940137,
+              33.7631486
+            ],
+            [
+              -84.3940872,
+              33.7631481
+            ],
+            [
+              -84.3940856,
+              33.7629909
+            ]
+          ]
+        ]
+      },
+      "id": "way/193133919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208130998",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "San Francisco Coffee Roasting",
+        "source": "bing_imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3528704,
+              33.7727721
+            ],
+            [
+              -84.3527593,
+              33.7727729
+            ],
+            [
+              -84.3526275,
+              33.772773
+            ],
+            [
+              -84.3526231,
+              33.7729138
+            ],
+            [
+              -84.3527598,
+              33.7729134
+            ],
+            [
+              -84.3529486,
+              33.7729132
+            ],
+            [
+              -84.3529507,
+              33.7727075
+            ],
+            [
+              -84.3528697,
+              33.7727075
+            ],
+            [
+              -84.3528704,
+              33.7727721
+            ]
+          ]
+        ]
+      },
+      "id": "way/208130998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219554150",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "716",
+        "addr:postcode": "30306",
+        "addr:street": "Ponce de Leon Place Northeast",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3642833,
+              33.773738
+            ],
+            [
+              -84.3642538,
+              33.7736528
+            ],
+            [
+              -84.3639992,
+              33.7737177
+            ],
+            [
+              -84.3640143,
+              33.7737618
+            ],
+            [
+              -84.364121,
+              33.7737375
+            ],
+            [
+              -84.3641339,
+              33.7737763
+            ],
+            [
+              -84.3642833,
+              33.773738
+            ]
+          ]
+        ]
+      },
+      "id": "way/219554150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263153556",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "4520",
+        "addr:postcode": "30342",
+        "addr:state": "GA",
+        "addr:street": "Roswell Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Caribou Coffee",
+        "opening_hours": "Mo-Fr 6:00-22:00; Sa 7:00-22:00; Su 7:00-21:00",
+        "phone": "(404) 303-8244",
+        "website": "https://www.cariboucoffee.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3802391,
+              33.8786967
+            ],
+            [
+              -84.3802422,
+              33.8785168
+            ],
+            [
+              -84.3800766,
+              33.8785239
+            ],
+            [
+              -84.3800828,
+              33.878623
+            ],
+            [
+              -84.3801155,
+              33.8786216
+            ],
+            [
+              -84.3801372,
+              33.8787001
+            ],
+            [
+              -84.3802391,
+              33.8786967
+            ]
+          ]
+        ]
+      },
+      "id": "way/263153556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269843631",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "21",
+        "addr:postcode": "30309",
+        "addr:street": "14th Street Northeast",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 5:30-21:00; Sa 6:00-21:00; Su 6:30-21:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3872284,
+              33.7865172
+            ],
+            [
+              -84.3872295,
+              33.786111
+            ],
+            [
+              -84.3871054,
+              33.7861108
+            ],
+            [
+              -84.3871043,
+              33.7865169
+            ],
+            [
+              -84.3872284,
+              33.7865172
+            ]
+          ]
+        ]
+      },
+      "id": "way/269843631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270006488",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "840",
+        "addr:postcode": "30318",
+        "addr:state": "GA",
+        "addr:street": "Marietta Street Northwest",
+        "alt_name": "Amélie's French Bakery",
+        "amenity": "cafe",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/ameliesatl",
+        "contact:phone": "+1 (404) 921-0276",
+        "contact:twitter": "https://twitter.com/ameliesatl",
+        "contact:website": "http://www.ameliesfrenchbakery.com/",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Amélie's Atlanta",
+        "opening_hours": "Su-We 06:00-22:00;Th-Sa 06:00-23:00",
+        "phone": "+1 (404) 921-0276",
+        "shop": "bakery",
+        "website": "https://ameliesfrenchbakery.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.40708,
+              33.7752104
+            ],
+            [
+              -84.407017,
+              33.7750872
+            ],
+            [
+              -84.4067635,
+              33.7752354
+            ],
+            [
+              -84.4068319,
+              33.7753597
+            ],
+            [
+              -84.40708,
+              33.7752104
+            ]
+          ]
+        ]
+      },
+      "id": "way/270006488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359371697",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "175",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Piedmont Avenue Northeast",
+        "amenity": "cafe",
+        "building": "university",
+        "name": "Piedmont North Dining Hall",
+        "operator": "Georgia State University"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3814238,
+              33.758902
+            ],
+            [
+              -84.3814192,
+              33.7592867
+            ],
+            [
+              -84.3816092,
+              33.759291
+            ],
+            [
+              -84.3816092,
+              33.7591796
+            ],
+            [
+              -84.3817187,
+              33.7591818
+            ],
+            [
+              -84.3817239,
+              33.7589044
+            ],
+            [
+              -84.3816175,
+              33.7589036
+            ],
+            [
+              -84.3814238,
+              33.758902
+            ]
+          ]
+        ]
+      },
+      "id": "way/359371697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474952078",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "381",
+        "addr:postcode": "30312",
+        "addr:state": "GA",
+        "addr:street": "Edgewood Avenue Northeast",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "description": "Bike friendly cafe with outside seating.",
+        "internet_access": "wlan",
+        "name": "CAFE + VELO",
+        "opening_hours": "Mo-Fr 08:00-17:00 Sa,Su 09:00-17:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3750569,
+              33.7541301
+            ],
+            [
+              -84.3749683,
+              33.75413
+            ],
+            [
+              -84.374968,
+              33.754269
+            ],
+            [
+              -84.3750567,
+              33.7542691
+            ],
+            [
+              -84.3750569,
+              33.7541301
+            ]
+          ]
+        ]
+      },
+      "id": "way/474952078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738377172",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Chrome Yellow Trading Co."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3711647,
+              33.7540597
+            ],
+            [
+              -84.3710759,
+              33.7538624
+            ],
+            [
+              -84.3708155,
+              33.7538602
+            ],
+            [
+              -84.3708158,
+              33.7539449
+            ],
+            [
+              -84.3710223,
+              33.7539525
+            ],
+            [
+              -84.3710603,
+              33.7540819
+            ],
+            [
+              -84.3711647,
+              33.7540597
+            ]
+          ]
+        ]
+      },
+      "id": "way/738377172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804691714",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3346292,
+              33.8160913
+            ],
+            [
+              -84.3345538,
+              33.816113
+            ],
+            [
+              -84.3346091,
+              33.8162458
+            ],
+            [
+              -84.3346192,
+              33.8162429
+            ],
+            [
+              -84.334626,
+              33.8162593
+            ],
+            [
+              -84.3346405,
+              33.8162551
+            ],
+            [
+              -84.3346473,
+              33.8162715
+            ],
+            [
+              -84.3346857,
+              33.8162604
+            ],
+            [
+              -84.3346804,
+              33.8162477
+            ],
+            [
+              -84.3347182,
+              33.8162368
+            ],
+            [
+              -84.3346817,
+              33.8161492
+            ],
+            [
+              -84.3346563,
+              33.8161565
+            ],
+            [
+              -84.3346292,
+              33.8160913
+            ]
+          ]
+        ]
+      },
+      "id": "way/804691714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497350542",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Inman Perk Coffee",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3591397,
+          33.7625177
+        ]
+      },
+      "id": "node/497350542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534152483",
+        "amenity": "cafe",
+        "name": "Pastries A Go Go",
+        "shop": "bakery",
+        "website": "www.pastriesagogo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2998584,
+          33.7760711
+        ]
+      },
+      "id": "node/534152483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536665814",
+        "addr:housenumber": "579",
+        "amenity": "cafe",
+        "name": "Java Vino",
+        "website": "http://javavino.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3523271,
+          33.7701175
+        ]
+      },
+      "id": "node/536665814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536672764",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3886713,
+          33.7566098
+        ]
+      },
+      "id": "node/536672764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544023244",
+        "amenity": "cafe",
+        "name": "Java Monkey",
+        "website": "http://www.javamonkeydecatur.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2947712,
+          33.7751486
+        ]
+      },
+      "id": "node/544023244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544023247",
+        "addr:housenumber": "133",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2958139,
+          33.7754442
+        ]
+      },
+      "id": "node/544023247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544487958",
+        "addr:housenumber": "707",
+        "amenity": "cafe",
+        "name": "Kavarna",
+        "website": "https://kavarnadecatur.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3032761,
+          33.7591523
+        ]
+      },
+      "id": "node/544487958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/554508584",
+        "addr:housenumber": "406",
+        "amenity": "cafe",
+        "cuisine": "mexican",
+        "name": "Calle Latina",
+        "shop": "catering",
+        "website": "baddabing.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2950358,
+          33.7749086
+        ]
+      },
+      "id": "node/554508584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/554816594",
+        "addr:housenumber": "105",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Out of the Pan",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2963791,
+          33.7758966
+        ]
+      },
+      "id": "node/554816594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/555126575",
+        "addr:housenumber": "790",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Java dive",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3614837,
+          33.7739889
+        ]
+      },
+      "id": "node/555126575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/556485776",
+        "addr:housenumber": "250",
+        "amenity": "cafe",
+        "name": "Sawicki's",
+        "shop": "meat;seafood",
+        "website": "http://sawickisfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2997482,
+          33.7754139
+        ]
+      },
+      "id": "node/556485776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567065894",
+        "addr:housenumber": "1409D",
+        "amenity": "cafe",
+        "name": "Caramba Cafe",
+        "website": "carambacafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3518596,
+          33.7926749
+        ]
+      },
+      "id": "node/567065894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/568038119",
+        "addr:housenumber": "1645",
+        "amenity": "cafe",
+        "name": "Dr. Bombay's",
+        "website": "drbombays.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3336198,
+          33.7647556
+        ]
+      },
+      "id": "node/568038119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/568038122",
+        "addr:housenumber": "1660",
+        "amenity": "cafe",
+        "name": "Gato Bizco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3332078,
+          33.7649126
+        ]
+      },
+      "id": "node/568038122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/568038127",
+        "addr:housenumber": "1655",
+        "amenity": "cafe",
+        "name": "The Flying Biscuit",
+        "website": "https://www.flyingbiscuit.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3331821,
+          33.7647485
+        ]
+      },
+      "id": "node/568038127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/569509275",
+        "amenity": "cafe",
+        "name": "J. Christopher's",
+        "website": "jchristophers.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2928439,
+          33.7757798
+        ]
+      },
+      "id": "node/569509275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660529453",
+        "addr:housenumber": "573",
+        "amenity": "cafe",
+        "name": "Babette's Cafe",
+        "website": "https://www.babettescafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3522921,
+          33.7699856
+        ]
+      },
+      "id": "node/660529453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779187548",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3436399,
+          33.8571917
+        ]
+      },
+      "id": "node/779187548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779212214",
+        "amenity": "cafe",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3883597,
+          33.8188124
+        ]
+      },
+      "id": "node/779212214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779212236",
+        "amenity": "cafe",
+        "brand": "Caribou Coffee",
+        "brand:wikidata": "Q5039494",
+        "brand:wikipedia": "en:Caribou Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Caribou Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3701491,
+          33.8439407
+        ]
+      },
+      "id": "node/779212236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/780931920",
+        "addr:housenumber": "1009-B",
+        "addr:street": "Marietta Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Octane Coffee Bar & Lounge",
+        "opening_hours": "Mo-Th 07:00-23:00;Fr 07:00-24:00;Sa 08:00-22:00;Su 08:00-22:00",
+        "phone": "+1-404-815-9886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.410306,
+          33.7794653
+        ]
+      },
+      "id": "node/780931920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861902895",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39708,
+          33.758453
+        ]
+      },
+      "id": "node/861902895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1141444131",
+        "addr:housenumber": "349",
+        "addr:street": "Decatur Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Marlee's Coffee and Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3787121,
+          33.7497186
+        ]
+      },
+      "id": "node/1141444131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237615380",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3494503,
+          33.7680684
+        ]
+      },
+      "id": "node/1237615380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237623443",
+        "amenity": "cafe",
+        "name": "Aurora Coffee",
+        "website": "http://auroracoffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3493774,
+          33.7670138
+        ]
+      },
+      "id": "node/1237623443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237654290",
+        "amenity": "cafe",
+        "name": "Village Coffeehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3493345,
+          33.7656269
+        ]
+      },
+      "id": "node/1237654290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237999081",
+        "amenity": "cafe",
+        "drink": "100% fair trade & organic coffee",
+        "name": "Java Lords Coffeehouse & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3509537,
+          33.7638564
+        ]
+      },
+      "id": "node/1237999081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1246052475",
+        "addr:housename": "Samaritan House of Atlanta",
+        "addr:housenumber": "458",
+        "addr:street": "Edgewood Avenue Southeast",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Cafe 458",
+        "source": "image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3726945,
+          33.7544311
+        ]
+      },
+      "id": "node/1246052475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1252485964",
+        "addr:housenumber": "2571",
+        "addr:street": "Piedmont Road Northeast",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.365614,
+          33.825593
+        ]
+      },
+      "id": "node/1252485964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1434736083",
+        "amenity": "cafe",
+        "name": "Ducks Cosmic Kitchen",
+        "website": "https://www.duckscosmickitchen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2854285,
+          33.7731716
+        ]
+      },
+      "id": "node/1434736083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446314511",
+        "addr:city": "Atlanta",
+        "addr:country": "US",
+        "addr:housenumber": "60",
+        "addr:postcode": "30303",
+        "addr:street": "Luckie Street",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "name": "Landmark Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3890915,
+          33.7566131
+        ]
+      },
+      "id": "node/1446314511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584192112",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3125155,
+          33.8185812
+        ]
+      },
+      "id": "node/1584192112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1643182334",
+        "amenity": "cafe",
+        "name": "Crepe Masters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2972228,
+          33.7776667
+        ]
+      },
+      "id": "node/1643182334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1667797722",
+        "addr:housenumber": "510",
+        "addr:street": "Flat Shoals Avenue SE",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Joe's East Atlanta Coffee Shop",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3454252,
+          33.7403458
+        ]
+      },
+      "id": "node/1667797722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1748940289",
+        "amenity": "cafe",
+        "name": "Drip Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3572531,
+          33.7406611
+        ]
+      },
+      "id": "node/1748940289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1940768590",
+        "addr:housenumber": "650",
+        "addr:postcode": "30308",
+        "addr:street": "North Avenue Northeast",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "The Dancing Goats® Coffee Bar @ Ponce City Market",
+        "source": "local_knowledge",
+        "website": "https://www.batdorfcoffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3673949,
+          33.7714564
+        ]
+      },
+      "id": "node/1940768590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973081734",
+        "addr:housenumber": "437",
+        "addr:postcode": "30312",
+        "addr:street": "Memorial Drive Southeast",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "The Little Tart Bakeshop",
+        "old_name": "Octane Coffee",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 08:00-16:00",
+        "opening_hours:covid19": "Mo-Su 08:00-14:00",
+        "outdoor_seating": "yes",
+        "website": "http://www.littletartatl.com/location/grant-park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3727959,
+          33.746078
+        ]
+      },
+      "id": "node/1973081734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015638373",
+        "amenity": "cafe",
+        "cuisine": "juice",
+        "name": "Nectar",
+        "website": "http://nectarfoods.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3050267,
+          33.7927515
+        ]
+      },
+      "id": "node/2015638373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2035267512",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "name": "Just Around the Corner",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3926492,
+          33.7571903
+        ]
+      },
+      "id": "node/2035267512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2184808417",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "San Francisco Coffee",
+        "source": "bing_imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3555313,
+          33.7872621
+        ]
+      },
+      "id": "node/2184808417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2277885151",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "source": "local_knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3806359,
+          33.7820917
+        ]
+      },
+      "id": "node/2277885151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2283453470",
+        "addr:housenumber": "2321",
+        "addr:postcode": "30329",
+        "addr:state": "GA",
+        "addr:street": "North Druid Hills Road Northeast",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "source": "local_knowledge",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3313378,
+          33.8274295
+        ]
+      },
+      "id": "node/2283453470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288048120",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "692B",
+        "addr:postcode": "30316",
+        "addr:state": "GA",
+        "addr:street": "Kirkwood Avenue Southeast",
+        "addr:unit": "B1",
+        "amenity": "cafe",
+        "cuisine": "cupcake;sweets",
+        "internet_access": "wlan",
+        "name": "Sweet Cheats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3643866,
+          33.7504418
+        ]
+      },
+      "id": "node/2288048120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2351693960",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "source": "Local_knowledge",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37076,
+          33.798133
+        ]
+      },
+      "id": "node/2351693960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390850320",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "phone": "404-685-0287",
+        "source": "local_knowledge",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3829289,
+          33.7870427
+        ]
+      },
+      "id": "node/2390850320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2429478309",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Honey Bubble",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "Survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.361338,
+          33.774131
+        ]
+      },
+      "id": "node/2429478309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2434041405",
+        "amenity": "cafe",
+        "name": "Broadway Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3851518,
+          33.7715889
+        ]
+      },
+      "id": "node/2434041405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2760795142",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "yes",
+        "name": "Zoe's Kitchen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3877516,
+          33.8188265
+        ]
+      },
+      "id": "node/2760795142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773409689",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "2952",
+        "addr:postcode": "30339",
+        "addr:street": "Cobb Parkway South",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Barnes & Noble Cafe",
+        "note": "Serves Starbucks coffee, but is not a Starbucks store",
+        "opening_hours": "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-21:00",
+        "operator": "Barnes & Noble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4637817,
+          33.8801003
+        ]
+      },
+      "id": "node/2773409689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2933053627",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "845",
+        "addr:postcode": "30308",
+        "addr:street": "Spring Street Northwest",
+        "amenity": "cafe",
+        "name": "MidCity Cafe",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa 00:00-02:00,12:00-24:00; Su 00:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3875226,
+          33.7778611
+        ]
+      },
+      "id": "node/2933053627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3021082253",
+        "addr:city": "Decatur",
+        "addr:housenumber": "419",
+        "addr:postcode": "30030",
+        "addr:street": "West Ponce de Leon Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "The Dancing Goats Coffee Bar",
+        "opening_hours": "06:30-19:00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3032666,
+          33.7758103
+        ]
+      },
+      "id": "node/3021082253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3021596180",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3826938,
+          33.8353822
+        ]
+      },
+      "id": "node/3021596180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129949343",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Taproom Coffee & Beer",
+        "smoking": "no",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3232107,
+          33.751568
+        ]
+      },
+      "id": "node/3129949343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3289281722",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "2955",
+        "addr:postcode": "30339",
+        "addr:state": "GA",
+        "addr:street": "Cobb Parkway South",
+        "addr:suite": "240",
+        "amenity": "cafe",
+        "cuisine": "bagel",
+        "name": "101 Bagel Cafe",
+        "old_name": "Brooklyn Water Bagels",
+        "opening_hours": "Mo-Su 06:00-16:00",
+        "phone": "+1 (770) 988-9991",
+        "website": "https://www.101bagelcafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4621578,
+          33.8824214
+        ]
+      },
+      "id": "node/3289281722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372607294",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "1100",
+        "addr:postcode": "30318",
+        "addr:state": "GA",
+        "addr:street": "Howell Mill Road",
+        "amenity": "cafe",
+        "name": "West Egg Cafe",
+        "website": "http://westeggcafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.412146,
+          33.7843654
+        ]
+      },
+      "id": "node/3372607294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372607296",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "962",
+        "addr:postcode": "30318",
+        "addr:state": "GA",
+        "addr:street": "Marietta Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Urban Grind",
+        "website": "http://www.urbangrindatl.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4089783,
+          33.7777018
+        ]
+      },
+      "id": "node/3372607296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3411018984",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chololaté",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30582,
+          33.791264
+        ]
+      },
+      "id": "node/3411018984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485157910",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "145",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Auburn Ave NE STE A",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Refugee Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3828534,
+          33.7554483
+        ]
+      },
+      "id": "node/3485157910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485166783",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "45",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Auburn Ave",
+        "amenity": "cafe",
+        "cuisine": "juice",
+        "name": "Arden's Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3827845,
+          33.7554465
+        ]
+      },
+      "id": "node/3485166783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485179629",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "16",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Park Place Northeast",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Ebrik Coffee Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3888128,
+          33.7539249
+        ]
+      },
+      "id": "node/3485179629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3599559801",
+        "amenity": "cafe",
+        "atm": "no",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Atlanta Coffee Roasters",
+        "outdoor_seating": "yes",
+        "source": "Survey",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31306,
+          33.815809
+        ]
+      },
+      "id": "node/3599559801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4081894989",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "528",
+        "addr:postcode": "30324",
+        "addr:state": "GA",
+        "addr:street": "Main Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "SIP The Experience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3698719,
+          33.8227339
+        ]
+      },
+      "id": "node/4081894989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4643468356",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "2970",
+        "addr:postcode": "30305",
+        "addr:state": "GA",
+        "addr:street": "Peachtree Road",
+        "amenity": "cafe",
+        "name": "IN Between Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3823401,
+          33.8362255
+        ]
+      },
+      "id": "node/4643468356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697355860",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "3000",
+        "addr:postcode": "30339",
+        "addr:state": "GA",
+        "addr:street": "Cumberland Blvd SE",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Downtown Connector",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4655189,
+          33.8775592
+        ]
+      },
+      "id": "node/4697355860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698283410",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "3100",
+        "addr:state": "GA",
+        "addr:street": "Cumberland Boulevard Southeast",
+        "amenity": "cafe",
+        "name": "Cafe Copper Top",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4654222,
+          33.8769666
+        ]
+      },
+      "id": "node/4698283410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4702370101",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "name:en": "Starbucks Coffee",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "May-Jul: Mo-Fr 07:00-20:00; May-Jul: Sa,Su 09:00-18:00",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3883489,
+          33.7766369
+        ]
+      },
+      "id": "node/4702370101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4953685794",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "1180",
+        "addr:postcode": "30309",
+        "addr:state": "GA",
+        "addr:street": "West Peachtree Street Northwest",
+        "addr:unit": "820",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "fax": "+1 404 815 6701",
+        "name": "Rising Roll",
+        "outdoor_seating": "no",
+        "phone": "+1 404 815 6787",
+        "smoking": "no",
+        "website": "http://risingroll.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3881965,
+          33.7870496
+        ]
+      },
+      "id": "node/4953685794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078098971",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4049042,
+          33.7794281
+        ]
+      },
+      "id": "node/5078098971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260314989",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "57",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Forsyth Street Northwest",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "cafelucia-5",
+        "name": "Cafe Lucia",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898802,
+          33.7557155
+        ]
+      },
+      "id": "node/5260314989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5351941421",
+        "addr:housenumber": "480",
+        "addr:postcode": "30312",
+        "addr:street": "John Wesley Dobbs Avenue Northeast",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Condesa",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 08:00-21:00",
+        "phone": "404-524-5054",
+        "website": "http://www.condesacoffee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3718563,
+          33.7597409
+        ]
+      },
+      "id": "node/5351941421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413277910",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Land of 1000 Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3889215,
+          33.7557965
+        ]
+      },
+      "id": "node/5413277910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413277913",
+        "amenity": "cafe",
+        "name": "Boba Mocha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.389238,
+          33.7552672
+        ]
+      },
+      "id": "node/5413277913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554395887",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3267735,
+          33.7891845
+        ]
+      },
+      "id": "node/5554395887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5943008670",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Rising Roll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3881121,
+          33.7971242
+        ]
+      },
+      "id": "node/5943008670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6186979685",
+        "addr:housenumber": "933",
+        "addr:postcode": "30309",
+        "addr:street": "Peachtree Street",
+        "amenity": "cafe",
+        "cuisine": "cake;donut;coffee_shop",
+        "internet_access": "wlan",
+        "name": "Sweet Hut Bakery",
+        "name:en": "Sweet Hut Bakery & Cafe",
+        "phone": "4046004800",
+        "website": "https://www.sweethutbakery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3839653,
+          33.7800741
+        ]
+      },
+      "id": "node/6186979685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203698685",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3982201,
+          33.7914785
+        ]
+      },
+      "id": "node/6203698685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6205863487",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3972941,
+          33.7927833
+        ]
+      },
+      "id": "node/6205863487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6206100587",
+        "amenity": "cafe",
+        "name": "Dancing Goat Coffee Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3864215,
+          33.78057
+        ]
+      },
+      "id": "node/6206100587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208524788",
+        "amenity": "cafe",
+        "name": "Brash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4118789,
+          33.7856086
+        ]
+      },
+      "id": "node/6208524788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227558789",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "600",
+        "addr:postcode": "30308",
+        "addr:state": "GA",
+        "addr:street": "West Peachtree Street Northwest",
+        "amenity": "cafe",
+        "cuisine": "chicken;breakfast;lunch",
+        "internet_access": "no",
+        "name": "Cafeteria",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3877488,
+          33.7706769
+        ]
+      },
+      "id": "node/6227558789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228019385",
+        "amenity": "cafe",
+        "name": "hb Food Anatomy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3979786,
+          33.7807227
+        ]
+      },
+      "id": "node/6228019385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6250268928",
+        "amenity": "cafe",
+        "name": "Blue Donkey Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3989011,
+          33.7741077
+        ]
+      },
+      "id": "node/6250268928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283505847",
+        "addr:city": "Chamblee",
+        "addr:housenumber": "5001",
+        "addr:postcode": "30341",
+        "addr:state": "GA",
+        "addr:street": "Peachtree Boulevard",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3161221,
+          33.8839364
+        ]
+      },
+      "id": "node/6283505847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373302433",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "cuban",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Golden Drops Cafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3107979,
+          33.8062148
+        ]
+      },
+      "id": "node/6373302433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6375927985",
+        "amenity": "cafe",
+        "name": "Kung Fu Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3884522,
+          33.7543918
+        ]
+      },
+      "id": "node/6375927985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6592625851",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "1645",
+        "addr:postcode": "30318",
+        "addr:state": "GA",
+        "addr:street": "Chattahoochee Avenue Northwest",
+        "addr:unit": "Suite 100",
+        "amenity": "cafe",
+        "name": "Cafe at Pharr",
+        "opening_hours": "Mo-Fr 10:00-16:00, Sa 10:00-15:00",
+        "phone": "+1-678-0732-3334",
+        "website": "http://cafeatpharr.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4342245,
+          33.8069279
+        ]
+      },
+      "id": "node/6592625851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6912898013",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Downtown Connector",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Fr 05:30-20:30; Sa 06:00-20:30; Su 06:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3889265,
+          33.7750143
+        ]
+      },
+      "id": "node/6912898013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918500667",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.394799,
+          33.7603949
+        ]
+      },
+      "id": "node/6918500667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918531177",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3944136,
+          33.7578881
+        ]
+      },
+      "id": "node/6918531177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024641565",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "East Pole Coffee Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3785033,
+          33.8106962
+        ]
+      },
+      "id": "node/7024641565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025144080",
+        "addr:city": "Atlanta",
+        "addr:housenumber": "50",
+        "addr:postcode": "30303",
+        "addr:state": "GA",
+        "addr:street": "Hurt Plaza Southeast",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3867205,
+          33.7543665
+        ]
+      },
+      "id": "node/7025144080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7105460723",
+        "addr:housenumber": "38B",
+        "amenity": "cafe",
+        "name": "Banjo Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2712744,
+          33.7758503
+        ]
+      },
+      "id": "node/7105460723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7172046264",
+        "addr:housenumber": "925",
+        "addr:street": "Battery Avenue Southeast",
+        "addr:unit": "1100",
+        "amenity": "cafe",
+        "name": "Kung Fu Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4704832,
+          33.8878609
+        ]
+      },
+      "id": "node/7172046264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7567432349",
+        "amenity": "cafe",
+        "name": "Fresh4You"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3933817,
+          33.8077135
+        ]
+      },
+      "id": "node/7567432349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779207985",
+        "addr:postcode": "30316",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Park Grounds",
+        "phone": "6785289901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.354649,
+          33.7501026
+        ]
+      },
+      "id": "node/7779207985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8171357808",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Chattahoochee Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4138214,
+          33.7868525
+        ]
+      },
+      "id": "node/8171357808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8275224901",
+        "addr:unit": "320",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "description": "Coffee roasters also serving fresh coffee.",
+        "name": "Radio Roasters Coffee",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2716521,
+          33.7829406
+        ]
+      },
+      "id": "node/8275224901"
+    }
+  ]
+}
